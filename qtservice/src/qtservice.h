@@ -22,7 +22,6 @@
 #  define QT_QTSERVICE_EXPORT
 #endif
 
-class QStringList;
 class QtServiceControllerPrivate;
 
 class QT_QTSERVICE_EXPORT QtServiceController
